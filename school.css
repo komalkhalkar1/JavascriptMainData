@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(154, 237, 237);
+    color:blue;
+}
+
+h1{
+  font-style:italic;
+    color: darkslategray;
+  
+}
+
+q{
+    color:dimgray;
+    font-size:medium;
+    font-family:verdana;
+}
+
+/*p1{
+    border:4px groove;
+    color: rgb(99, 100, 100);
+   border-radius: 10px;
+    padding: 40px;
+    margin: 20px;
+    background-color:khaki;
+}*/
